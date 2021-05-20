@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Github Pages Practice"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Well, every now and then a time comes when one has to commit to something. I decided to commit to this code. Ba dum tss!
